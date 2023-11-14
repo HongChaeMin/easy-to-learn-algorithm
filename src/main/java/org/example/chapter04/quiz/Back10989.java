@@ -1,4 +1,4 @@
-package org.example.chapter4sort.quiz;
+package org.example.chapter04.quiz;
 
 import java.io.BufferedReader;
 import java.io.IOException;

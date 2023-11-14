@@ -1,4 +1,4 @@
-package org.example.chapter4sort.example;
+package org.example.chapter04.example;
 
 public class CountingSort {
 
